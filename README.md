@@ -3,4 +3,4 @@
 ### Introduction 
 
 This project is the design and implementation of a deep learning computer vision pipeline in Python for detecting cars in a streamed video and classifying the type (sedan or hatchback) and colour of each car.
-![alt_text](images/design.jpg)
+![alt_text](images/design.JPG)
